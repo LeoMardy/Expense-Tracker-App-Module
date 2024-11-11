@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red_50">#fde0dc</color>
+    <color name="red_100">#f9bdbb</color>
+
+
+    <!-- MD: Pink -->
+    <color name="pink_50">#fce4ec</color>
+    <color name="pink_100">#f8bbd0</color>
+    <color name="pink_200">#f48fb1</color>
+
+
+    <!-- MD: Purple -->
+    <color name="purple_50">#f3e5f5</color>
+    <color name="purple_100">#e1bee7</color>
+    <color name="purple_200">#ce93d8</color>
+    <color name="purple_300">#ba68c8</color>
+
+
+    <!-- MD: Deep Purple -->
+    <color name="deep_purple_50">#ede7f6</color>
+    <color name="deep_purple_100">#d1c4e9</color>
+    <color name="deep_purple_200">#b39ddb</color>
+
+
+
+    <!-- MD: Indigo -->
+    <color name="indigo_50">#e8eaf6</color>
+    <color name="indigo_100">#c5cae9</color>
+    <color name="indigo_200">#9fa8da</color>
+    <color name="indigo_300">#7986cb</color>
+
+
+    <!-- MD: Blue -->
+    <color name="blue_50">#e7e9fd</color>
+    <color name="blue_100">#d0d9ff</color>
+    <color name="blue_200">#afbfff</color>
+    <color name="blue_300">#91a7ff</color>
+
+
+    <!-- MD: Light Blue -->
+    <color name="light_blue_50">#e1f5fe</color>
+    <color name="light_blue_100">#b3e5fc</color>
+    <color name="light_blue_200">#81d4fa</color>
+
+
+    <!-- MD: Cyan -->
+    <color name="cyan_50">#e0f7fa</color>
+    <color name="cyan_100">#b2ebf2</color>
+    <color name="cyan_200">#80deea</color>
+    <color name="cyan_300">#4dd0e1</color>
+
+
+    <!-- MD: Teal -->
+    <color name="teal_50">#e0f2f1</color>
+    <color name="teal_100">#b2dfdb</color>
+    <color name="teal_200">#80cbc4</color>
+
+
+    <!-- MD: Green -->
+    <color name="green_50">#d0f8ce</color>
+    <color name="green_100">#a3e9a4</color>
+    <color name="green_200">#72d572</color>
+
+
+    <!-- MD: Light Green -->
+    <color name="light_green_50">#f1f8e9</color>
+    <color name="light_green_100">#dcedc8</color>
+    <color name="light_green_200">#c5e1a5</color>
+    <color name="light_green_300">#aed581</color>
+    <color name="light_green_A100">#ccff90</color>
+
+
+    <!-- MD: Lime -->
+    <color name="lime_50">#f9fbe7</color>
+    <color name="lime_100">#f0f4c3</color>
+    <color name="lime_200">#e6ee9c</color>
+    <color name="lime_300">#dce775</color>
+
+    <color name="lime_A100">#f4ff81</color>
+    <color name="lime_A200">#eeff41</color>
+    <color name="lime_A400">#c6ff00</color>
+    <color name="lime_A700">#aeea00</color>
+
+    <!-- MD: Yellow -->
+    <color name="yellow_50">#fffde7</color>
+    <color name="yellow_100">#fff9c4</color>
+    <color name="yellow_200">#fff59d</color>
+    <color name="yellow_300">#fff176</color>
+    <color name="yellow_400">#ffee58</color>
+    <color name="yellow_500">#ffeb3b</color>
+    <color name="yellow_600">#fdd835</color>
+    <color name="yellow_700">#fbc02d</color>
+    <color name="yellow_A100">#ffff8d</color>
+    <color name="yellow_A200">#ffff00</color>
+    <color name="yellow_A400">#ffea00</color>
+    <color name="yellow_A700">#ffd600</color>
+
+    <!-- MD: Amber -->
+
+    <color name="amber_500">#ffc107</color>
+    <color name="amber_600">#ffb300</color>
+
+    <!-- MD: Orange -->
+    <color name="orange_50">#fff3e0</color>
+    <color name="orange_100">#ffe0b2</color>
+    <color name="orange_200">#ffcc80</color>
+    <color name="orange_300">#ffb74d</color>
+
+    <color name="orange_A700">#ff6d00</color>
+
+    <!-- MD: Deep Orange -->
+    <color name="deep_orange_50">#fbe9e7</color>
+    <color name="deep_orange_100">#ffccbc</color>
+    <color name="deep_orange_900">#bf360c</color>
+    <color name="deep_orange_A100">#ff9e80</color>
+
+
+    <!-- MD: Brown -->
+    <color name="brown_50">#efebe9</color>
+    <color name="brown_100">#d7ccc8</color>
+    <color name="brown_200">#bcaaa4</color>
+
+
+    <!-- MD: Grey -->
+    <color name="grey_50">#fafafa</color>
+    <color name="grey_100">#f5f5f5</color>
+    <color name="grey_200">#eeeeee</color>
+    <color name="grey_300">#e0e0e0</color>
+
+
+    <!-- MD: Blue Grey -->
+    <color name="blue_grey_50">#eceff1</color>
+    <color name="blue_grey_100">#cfd8dc</color>
+    <color name="blue_grey_200">#b0bec5</color>
+
+
+
+</resources>
